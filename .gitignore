@@ -1,6 +1,7 @@
 # Executables
 
 */*.out
+*/*.o
 
 # http://www.gnu.org/software/automake
 
